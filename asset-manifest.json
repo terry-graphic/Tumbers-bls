@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tumbers-bls/static/css/main.21980011.css",
-    "main.js": "/Tumbers-bls/static/js/main.48ae7847.js",
+    "main.css": "/Tumbers-bls/static/css/main.93d59692.css",
+    "main.js": "/Tumbers-bls/static/js/main.da2bf95b.js",
     "static/js/453.5779cf73.chunk.js": "/Tumbers-bls/static/js/453.5779cf73.chunk.js",
     "static/media/fence_7.jpg": "/Tumbers-bls/static/media/fence_7.c7b34ce5a78c2a9d72e2.jpg",
     "static/media/landscaping_fence_01_.jpg": "/Tumbers-bls/static/media/landscaping_fence_01_.a95a9554478e2ed2d2ce.jpg",
@@ -52,12 +52,12 @@
     "static/media/logo.jpg": "/Tumbers-bls/static/media/logo.8729357ec9f96b17040c.jpg",
     "static/media/trophey.png": "/Tumbers-bls/static/media/trophey.4b2d0aa03af14af8ee7c.png",
     "index.html": "/Tumbers-bls/index.html",
-    "main.21980011.css.map": "/Tumbers-bls/static/css/main.21980011.css.map",
-    "main.48ae7847.js.map": "/Tumbers-bls/static/js/main.48ae7847.js.map",
+    "main.93d59692.css.map": "/Tumbers-bls/static/css/main.93d59692.css.map",
+    "main.da2bf95b.js.map": "/Tumbers-bls/static/js/main.da2bf95b.js.map",
     "453.5779cf73.chunk.js.map": "/Tumbers-bls/static/js/453.5779cf73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21980011.css",
-    "static/js/main.48ae7847.js"
+    "static/css/main.93d59692.css",
+    "static/js/main.da2bf95b.js"
   ]
 }
